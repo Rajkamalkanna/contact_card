@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contact_card/static/css/main.3431abd8.css",
+    "main.js": "/contact_card/static/js/main.cdbc202e.js",
+    "static/media/pumpkin.png": "/contact_card/static/media/pumpkin.0164303484bdf6990736.png",
+    "static/media/fluffykins.png": "/contact_card/static/media/fluffykins.c7bb0197584ed1f3eb23.png",
+    "static/media/felix.png": "/contact_card/static/media/felix.493b2b98cac22f65d03b.png",
+    "static/media/mr-whiskerson.png": "/contact_card/static/media/mr-whiskerson.8980054c9433f094901c.png",
+    "index.html": "/contact_card/index.html",
+    "main.3431abd8.css.map": "/contact_card/static/css/main.3431abd8.css.map",
+    "main.cdbc202e.js.map": "/contact_card/static/js/main.cdbc202e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3431abd8.css",
+    "static/js/main.cdbc202e.js"
+  ]
+}
